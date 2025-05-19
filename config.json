@@ -1,0 +1,5 @@
+{
+  "openai_api_key": "YOUR_OPENAI_API_KEY",
+  "elevenlabs_api_key": "YOUR_ELEVENLABS_API_KEY",
+  "seed_keywords": ["ai tools", "celebrity gossip", "money hacks"]
+}
